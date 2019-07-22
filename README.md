@@ -4,4 +4,4 @@ Implemented a Deep Learning methodology to build an image classification model u
 
 Improvised the accuracy to 82% from 68%(Logistic) by performing forward and backward propagations manually to understand the key computations underlying deep learning and the role of hyper-parameters in deep learning. 
 
-Techniques Used - Neural Networks, Logistic Regression. (Python)
+Techniques Used - Neural Networks, Logistic Regression.(Python notebook)
